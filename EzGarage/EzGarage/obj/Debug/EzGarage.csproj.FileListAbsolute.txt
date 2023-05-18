@@ -1,0 +1,34 @@
+C:\Users\marco\source\repos\EzGarage\EzGarage\obj\Debug\EzGarage.csproj.AssemblyReference.cache
+C:\Users\marco\source\repos\EzGarage\EzGarage\obj\Debug\EzGarage.Form1.resources
+C:\Users\marco\source\repos\EzGarage\EzGarage\obj\Debug\EzGarage.Properties.Resources.resources
+C:\Users\marco\source\repos\EzGarage\EzGarage\obj\Debug\EzGarage.csproj.GenerateResource.cache
+C:\Users\marco\source\repos\EzGarage\EzGarage\obj\Debug\EzGarage.csproj.CoreCompileInputs.cache
+C:\Users\marco\source\repos\EzGarage\EzGarage\bin\Debug\EzGarage.exe.config
+C:\Users\marco\source\repos\EzGarage\EzGarage\bin\Debug\EzGarage.exe
+C:\Users\marco\source\repos\EzGarage\EzGarage\bin\Debug\EzGarage.pdb
+C:\Users\marco\source\repos\EzGarage\EzGarage\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\marco\source\repos\EzGarage\EzGarage\obj\Debug\EzGarage.csproj.CopyComplete
+C:\Users\marco\source\repos\EzGarage\EzGarage\obj\Debug\EzGarage.exe
+C:\Users\marco\source\repos\EzGarage\EzGarage\obj\Debug\EzGarage.pdb
+C:\Users\marco\source\repos\EzGarage\EzGarage\obj\Debug\EzGarage.Forms.FormClientes.resources
+C:\Users\marco\source\repos\EzGarage\EzGarage\obj\Debug\EzGarage.Forms.FormDetallesDeServicio.resources
+C:\Users\marco\source\repos\EzGarage\EzGarage\obj\Debug\EzGarage.Forms.FormVehiculos.resources
+C:\Users\marco\source\repos\EzGarage\EzGarage\obj\Debug\EzGarage.Forms.FormMecanicos.resources
+C:\Users\marco\source\repos\EzGarage\EzGarage\obj\Debug\EzGarage.Forms.FormServicios.resources
+C:\Users\MARIO\Documents\TAREAS SEXTO SEMESTRE\Ingeniera de Software\EzGarage.Apk\EzGarage\EzGarage\bin\Debug\EzGarage.exe.config
+C:\Users\MARIO\Documents\TAREAS SEXTO SEMESTRE\Ingeniera de Software\EzGarage.Apk\EzGarage\EzGarage\bin\Debug\EzGarage.exe
+C:\Users\MARIO\Documents\TAREAS SEXTO SEMESTRE\Ingeniera de Software\EzGarage.Apk\EzGarage\EzGarage\bin\Debug\EzGarage.pdb
+C:\Users\MARIO\Documents\TAREAS SEXTO SEMESTRE\Ingeniera de Software\EzGarage.Apk\EzGarage\EzGarage\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\MARIO\Documents\TAREAS SEXTO SEMESTRE\Ingeniera de Software\EzGarage.Apk\EzGarage\EzGarage\obj\Debug\EzGarage.csproj.AssemblyReference.cache
+C:\Users\MARIO\Documents\TAREAS SEXTO SEMESTRE\Ingeniera de Software\EzGarage.Apk\EzGarage\EzGarage\obj\Debug\EzGarage.Form1.resources
+C:\Users\MARIO\Documents\TAREAS SEXTO SEMESTRE\Ingeniera de Software\EzGarage.Apk\EzGarage\EzGarage\obj\Debug\EzGarage.Forms.FormClientes.resources
+C:\Users\MARIO\Documents\TAREAS SEXTO SEMESTRE\Ingeniera de Software\EzGarage.Apk\EzGarage\EzGarage\obj\Debug\EzGarage.Forms.FormDetallesDeServicio.resources
+C:\Users\MARIO\Documents\TAREAS SEXTO SEMESTRE\Ingeniera de Software\EzGarage.Apk\EzGarage\EzGarage\obj\Debug\EzGarage.Forms.FormMecanicos.resources
+C:\Users\MARIO\Documents\TAREAS SEXTO SEMESTRE\Ingeniera de Software\EzGarage.Apk\EzGarage\EzGarage\obj\Debug\EzGarage.Forms.FormServicios.resources
+C:\Users\MARIO\Documents\TAREAS SEXTO SEMESTRE\Ingeniera de Software\EzGarage.Apk\EzGarage\EzGarage\obj\Debug\EzGarage.Forms.FormVehiculos.resources
+C:\Users\MARIO\Documents\TAREAS SEXTO SEMESTRE\Ingeniera de Software\EzGarage.Apk\EzGarage\EzGarage\obj\Debug\EzGarage.Properties.Resources.resources
+C:\Users\MARIO\Documents\TAREAS SEXTO SEMESTRE\Ingeniera de Software\EzGarage.Apk\EzGarage\EzGarage\obj\Debug\EzGarage.csproj.GenerateResource.cache
+C:\Users\MARIO\Documents\TAREAS SEXTO SEMESTRE\Ingeniera de Software\EzGarage.Apk\EzGarage\EzGarage\obj\Debug\EzGarage.csproj.CoreCompileInputs.cache
+C:\Users\MARIO\Documents\TAREAS SEXTO SEMESTRE\Ingeniera de Software\EzGarage.Apk\EzGarage\EzGarage\obj\Debug\EzGarage.csproj.CopyComplete
+C:\Users\MARIO\Documents\TAREAS SEXTO SEMESTRE\Ingeniera de Software\EzGarage.Apk\EzGarage\EzGarage\obj\Debug\EzGarage.exe
+C:\Users\MARIO\Documents\TAREAS SEXTO SEMESTRE\Ingeniera de Software\EzGarage.Apk\EzGarage\EzGarage\obj\Debug\EzGarage.pdb
